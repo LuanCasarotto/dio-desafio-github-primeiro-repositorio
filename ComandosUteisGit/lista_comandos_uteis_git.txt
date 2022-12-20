@@ -1,0 +1,4 @@
+git status: Mostra o status do do git.
+git add .: Adciona todas as alterações para a area de stage.
+git commit -m "Mensagem": Faz o commit com as alterações em stage.
+git push: Envia as alterações para a remote do projeto.
