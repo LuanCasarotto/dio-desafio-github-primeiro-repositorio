@@ -2,3 +2,10 @@ git status: Mostra o status do do git.
 git add .: Adciona todas as alterações para a area de stage.
 git commit -m "Mensagem": Faz o commit com as alterações em stage.
 git push: Envia as alterações para a remote do projeto.
+
+Para salvar alterações sem commitar -> git stash
+
+- Faça alterações que deseja sem realizar o commit.
+- Use "git stash" para salvar essas alterações em um arquivo
+- Trabalhe em outra tarefa que for necessária
+- Quando voltar, use "git stash pop" para aplicar as alterações que ficaram salvas
